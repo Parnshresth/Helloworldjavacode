@@ -1,5 +1,4 @@
-class Hello world{
-publlic static void main (string[] args){
-system.out.println("hello world");
-}
-}
+My first Program 
+Hello world Java
+Author:Parn
+
